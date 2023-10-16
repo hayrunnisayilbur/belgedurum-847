@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge_durum_847.Form1.resources
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge_durum_847.Properties.Resources.resources
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\belge durum-847\belge durum-847\bin\Debug\belge durum-847.exe.config
+C:\Users\User\source\repos\belge durum-847\belge durum-847\bin\Debug\belge durum-847.exe
+C:\Users\User\source\repos\belge durum-847\belge durum-847\bin\Debug\belge durum-847.pdb
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.exe
+C:\Users\User\source\repos\belge durum-847\belge durum-847\obj\Debug\belge durum-847.pdb
